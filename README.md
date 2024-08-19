@@ -1,6 +1,6 @@
 # LightEmAll Overview
 ## Description
-LightEmAll is an engaging puzzle game that challenges players to connect all nodes in a grid using wires and illuminate the entire board.
+LightEmAll is an engaging puzzle game that challenges players to connect all nodes in a grid using wires to illuminate the entire board.
 
 ## Features
 
